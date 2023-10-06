@@ -56,3 +56,9 @@ hr{
     padding: 0.7rem 2rem;
     border-radius: 0.4rem;
 }
+.social-wrap img{
+    width: 3rem;
+}
+.social-wrap a {
+    text-decoration: none;
+}
